@@ -1,1 +1,1 @@
-reboot=0
+REBOOT=0
